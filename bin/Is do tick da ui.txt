@@ -1,0 +1,9 @@
+if(Player.mx > (25) && Player.mx < (173) && Player.my > (585) && Player.my < (623) && Game.godMode == "ON") {
+			Player.click = false;
+			Game.godMode = "OFF";
+			System.out.println("PASSANDO POR AQUI!!!!!!!!!!!!");
+		}else if(Player.mx > (25) && Player.mx < (173) && Player.my > (585) && Player.my < (623) && Game.godMode == "OFF"){
+			Player.click = false;
+			Game.godMode = "ON";
+			System.out.println("PASSANDO POR AQUI!!!!!!!!!!!!");
+		}

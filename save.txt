@@ -1,0 +1,14 @@
+mapa:<
+day:<
+week:<
+month:<
+year:<
+influence:<
+weatherDom:?A
+weatherSeg:<@
+weatherTer:<
+weatherQua:AB
+weatherQui:==
+weatherSex:A=
+weatherSab:=C
+weatherPermission:;
